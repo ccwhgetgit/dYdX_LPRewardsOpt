@@ -5,4 +5,3 @@ The current liquidity provider rewards formula includes a few different paramete
 
 Link: https://www.dydxgrants.com/grants/lp-rewards-formula-optimization 
 <br /> 
-Link to Discussion: https://dydx.forum/t/dydx-lp-rewards-programme-review/468 
